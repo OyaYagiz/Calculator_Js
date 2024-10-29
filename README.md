@@ -5,3 +5,5 @@ This project is a basic calculator application built with HTML, CSS, and JavaScr
 - <h5>Basic Operations:</h5> Supports addition, subtraction, multiplication, and division.
 - <h5>Clear Function:</h5> Includes an "AC" button to reset the display.
 - <h5>Decimal Support:</h5> Allows calculations with decimal numbers.
+
+![](calculator.gif)
